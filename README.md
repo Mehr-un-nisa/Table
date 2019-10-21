@@ -1,2 +1,4 @@
-# Shows a Table of a number
-C++ Program to show a table of a given number by user
+# Table of Inputed Number
+This is a C++ code.
+It asks user to enter a number.
+Than displays the table of that given number.
